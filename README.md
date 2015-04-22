@@ -1,0 +1,2 @@
+# semodepokemon
+simple game
